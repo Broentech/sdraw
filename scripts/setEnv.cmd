@@ -9,5 +9,5 @@ SET BROENDRAWPDIR=%STARTDIR%
 
 set logfile=%STARTDIR%\log.txt
 
-set VCDIR=C:\Program Files (x86)\Microsoft Visual Studio 12.0
+set VCDIR=C:\Program Files (x86)\Microsoft Visual Studio 14.0
 call "%VCDIR%\VC\vcvarsall.bat" x64
